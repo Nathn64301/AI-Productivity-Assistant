@@ -11,4 +11,4 @@ JavaScript
 ## Prompt Engineering
 My prompt was that I wanted the AI Tool to summarize meeting notes. The summary should be listed with sync of the opening agenda, key points, decisions, action items, and deadlines.
 ## Challenges & Responsible AI
-Made sure that 
+Made sure that the output/summary is in a formal languge and accurate to the notes
